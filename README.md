@@ -3,6 +3,8 @@ rubber ducky scripts that i make
 
 
 
-29708136
-03964581
-https://youtu.be/2psoLaaVO1U
+9325 4680
+6592 3018
+9528 3416
+2564 9107
+8156 0279
